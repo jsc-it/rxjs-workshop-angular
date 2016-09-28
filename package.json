@@ -14,7 +14,7 @@
     "generate": "npm run gen1 && npm run gen2"
   },
   "author": "",
-  "license": "ISC",
+  "license": "Creative Commons",
   "dependencies": {
   }
 }
